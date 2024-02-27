@@ -10,11 +10,13 @@ body {
 }
 
 body > section{padding:40px 0;}
-.col-sm-3{}
+.col-sm-3{
+
+}
 
 #header_nav {
 	 width:100%;
-	 background-color:#007d9e !important;
+	 background-color:#29ba12 !important;
     height:57px;
    /* position:fixed;*/
     top:0;
@@ -61,7 +63,7 @@ body {
   padding: 10px 0;
   /*background: #0e5d7b;*/
 background:#000;       
-  border-bottom: 1px solid #3f8dab;
+  border-bottom: 1px solid #04949c;
  /* line-height: 70px;*/
 }
 
@@ -139,7 +141,7 @@ h1,h2,h3,h4 {
 }
 
 header {
-  background: #007d9e;
+  background: #78f027;
   height:550px;
   color:#000000;
 }
@@ -269,7 +271,7 @@ section {
 }
 
 .bg-1 {
-	background: url('http://www.bootply.com/assets/example/bg_4.jpg') no-repeat center center fixed; 
+	background: url('http://www.bootply.com/assets/example/bg4.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
@@ -303,14 +305,14 @@ section {
 	
 .navigation{
 	      /*background-color:#11303c !important;*/
-          background:#007d9e !important;
+          background:#04949c !important;
 		  padding:0 10px; font-size:14px !important;
 		  line-height:40px;
 		  z-index:1000;}
 		  
 .brand_new{margin-right:80px !important; }
 
-.section_two_new{ width:100%; /*background:url(../images/background-secone.png) left top no-repeat;*/ background-color:#5f9de4; padding-top:30px; padding-bottom:30px; text-align:center;}
+.section_two_new{ width:100%; /*background:url(../images/background-secone.png) left top no-repeat;*/ background-color:#04949c; padding-top:30px; padding-bottom:30px; text-align:center;}
 .section_two_new h1{ 
   padding-top:30px;
   font-size:30px;
@@ -397,7 +399,7 @@ html, body {
 	background:#9ed100;
 }*/
 
-.sec_one{background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),url(../images/back-1.png);}
+.sec_one{background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),url(../images/Logo.jpg);}
 .sec_two{background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(../images/tre.jpg);}
 .sec_three{background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),url(../images/sec_theeeee.jpg); text-align:center; color:#fff;}
 /*.sec_four{background-image:url('http://www.minimit.com/images/picjumbo.com_IMG_9857.jpg');}
@@ -438,7 +440,7 @@ html, body {
   text-align:center;
   }
 .center_content{ text-align:center !important;}
-.center_content h3{color:##d9003a; text-align:center !important;}	
+.center_content h3{color:#d9003a; text-align:center !important;}	
 .center_content img{z-index:-1;}
 
 
@@ -455,13 +457,13 @@ html, body {
   padding-top:30px;
   font-size:35px;
   font-weight:bold;
-  color:#00a6d9 !important;
+  color:#04949c !important;
   padding-bottom:5px;
   text-align:center;}
 .our_treatment h3{ 
   padding-top:10px;
   font-size:19px;
-  color:#00a6d9 !important;
+  color:#04949c !important;
   padding-bottom:5px;
   text-align:center;}
   
@@ -563,12 +565,12 @@ background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),url(../
 
 .footer_us{ width:100%;
  text-align:center;
- background-color:#03222c;
+ background-color:#04949c;
  padding-top:0px;
  padding-bottom:15px;
  color:#fff;}
  
-.sample{ width:100%; background-color:#03222c;}
+.sample{ width:100%; background-color:#04949c;}
 .sample article{ float:left; padding-left:15px;}
 .sample article h1{ font-family:"Geometr415 Md BT"; font-size:21px; text-align:left; color:#FFF; font-weight:normal; text-transform:capitalize; padding:0 0 10px 0;}
 .sample article ul{ list-style:none; margin:0px; padding:0px;}
@@ -607,7 +609,7 @@ background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),url(../
 
 
 
-.becomeour_partnr{ width:100%; text-align:center; background:#5f9de4;}
+.becomeour_partnr{ width:100%; text-align:center; background:#04949c;}
 .becomeour_partnr h1{ 
   padding-top:30px;
   font-size:35px;
